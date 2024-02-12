@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EsercizioW3D1-2/1.0.0": {
+        "runtime": {
+          "EsercizioW3D1-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsercizioW3D1-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\bin\Debug\net8.0\EsercizioW3D1-2.exe
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\bin\Debug\net8.0\EsercizioW3D1-2.deps.json
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\bin\Debug\net8.0\EsercizioW3D1-2.runtimeconfig.json
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\bin\Debug\net8.0\EsercizioW3D1-2.dll
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\bin\Debug\net8.0\EsercizioW3D1-2.pdb
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.AssemblyInfoInputs.cache
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.AssemblyInfo.cs
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.csproj.CoreCompileInputs.cache
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.dll
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\refint\EsercizioW3D1-2.dll
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.pdb
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\EsercizioW3D1-2.genruntimeconfig.cache
+C:\Users\Davide\Documents\VSRepo\EsercizioW3D1-2\obj\Debug\net8.0\ref\EsercizioW3D1-2.dll
